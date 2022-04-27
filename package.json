@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lxy19960112/tdl-ts/issues"
   },
-  "homepage": "https://github.com/lxy19960112/tdl-ts#readme"
+  "homepage": "https://github.com/lxy19960112/tdl-ts#readme",
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
 }
